@@ -1,8 +1,8 @@
 {
-  "version": "1.5.9",
-  "url": "https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/EU/KQi3_Max_FW_1.5.9.zip",
-  "md5": "0d1eeb74bfc9e2a0ff7d9c35f9f9c14b",
+  "version": "1.7.0",
+  "url": "https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/US/KQi3_Max_FW_1.7.0.zip",
+  "md5": "e2b4f7a9c8d6f1a3b2c4d5e6f7a8b9c0",
   "force": false,
-  "desc": "KQi3 Max EU firmware intermédio (1.5.9) para downgrade",
+  "desc": "KQi3 Max firmware US desbloqueado (~38 km/h) para instalação após downgrade",
   "type": "firmware"
 }
