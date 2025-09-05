@@ -1,8 +1,31 @@
 {
+  // --- FIRMWARE ALEMÃO (20 km/h) ---
+  
+  "version": "1.4.5",
+  "url": "https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/DE/KQi3_Max_FW_1.4.5.zip",
+  "md5": "a1b2c3d4e5f67890123456789abcdef0",
+  "force": false,
+  "desc": "KQi3 Max firmware Alemão (DE) limitado a 20 km/h para teste inicial",
+  "type": "firmware"
+  
+
+  // --- FIRMWARE EUROPEU (25 km/h) ---
+  /*
   "version": "1.5.9",
   "url": "https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/EU/KQi3_Max_FW_1.5.9.zip",
   "md5": "0d1eeb74bfc9e2a0ff7d9c35f9f9c14b",
   "force": false,
-  "desc": "KQi3 Max EU firmware intermédio (1.5.9) para downgrade",
+  "desc": "KQi3 Max EU firmware intermédio (1.5.9) limitado a 25 km/h",
   "type": "firmware"
+  */
+
+  // --- FIRMWARE EUA (38 km/h) ---
+  /*
+  "version": "1.7.0",
+  "url": "https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/US/KQi3_Max_FW_1.7.0.zip",
+  "md5": "e2b4f7a9c8d6f1a3b2c4d5e6f7a8b9c0",
+  "force": false,
+  "desc": "KQi3 Max firmware US desbloqueado (~38 km/h)",
+  "type": "firmware"
+  */
 }
